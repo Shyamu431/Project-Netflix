@@ -15,4 +15,16 @@ Analyze the data and generate insights that could help Netflix in deciding which
 - [x] [Matplotlib](https://matplotlib.org/stable/)
 - [x] [Seaborn](https://seaborn.pydata.org/tutorial.html)
 
+**Problems Solved**
+* How has the number of movies released per year changed over the last 20-30 years?
+* Comparison of tv shows vs. movies.
+* What is the best time to launch a TV show?
+* Analysis of actors/directors of different types of shows/movies.
+* Does Netflix has more focus on TV Shows than movies in recent years
+* Understanding what content is available in different countries
 
+### Outcomes
+
+I offered over eight insights derived from this dataset and provided recommendations to enhance Netflix's reach.
+
+____
